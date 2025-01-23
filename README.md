@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gatada
 - 👀 I’m interested in product design, game development, and sketching.
 - 🧩 Trying to finish a board game prototype.
-- 🦾 I own a Qidi Tech Q1 Pro 3D printer.
+- 🦾 I own a Qidi Tech Q1 Pro 3D printer ([my journey](https://basberg.com/category/hardware/3d-printer/) thus far).
 - ⚙️ Started using [FreeCAD.org](https://www.freecad.org) to engineer models (love it).
 - 🕹️ Using [Godot](https://godotengine.org) to make video games.
 - 🖌️ Using [Blender](https://www.blender.org) to model game assets and fun things.
